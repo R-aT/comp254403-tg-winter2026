@@ -1,4 +1,4 @@
-// TG Lab Assignment 02 Exercise 02
+// TG Lab Assignment 03 Exercise 02
 
 import java.util.Scanner;
 

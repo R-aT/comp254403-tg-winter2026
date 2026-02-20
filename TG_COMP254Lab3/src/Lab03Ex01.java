@@ -1,4 +1,4 @@
-// TG Lab Assignment 02 Exercise 01
+// TG Lab Assignment 03 Exercise 01
 
 public class Lab03Ex01 {
 

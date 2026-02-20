@@ -1,4 +1,4 @@
-// TG Lab Assignment 02 Exercise 03
+// TG Lab Assignment 03 Exercise 03
 // Referencing DiskSpace.java in Week 5 Examples
 
 import java.io.File;
