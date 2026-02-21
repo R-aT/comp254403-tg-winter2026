@@ -22,6 +22,7 @@ public class Lab03Ex03 {
 			count++;
 		}
 
+		// Lists directories contents and uses recursion to verify files and open subdirectories 
 		if (path.isDirectory()) {
 			for (File file : Objects.requireNonNull(path.listFiles())) {
 				count += find(file, fileName);
